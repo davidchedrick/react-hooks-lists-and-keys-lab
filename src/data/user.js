@@ -26,7 +26,13 @@ const user = {
       about: "Etsy for aliens",
       technologies: ["React", "Redux", "Rails"],
     },
-  ],
+    {
+      id: 4,
+      name: "CATS!!!!!!",
+      about: "Themes for cats",
+      technologies: ["LOVE", "adorable", "cutie"],
+    }
+  ]
 };
 
 export default user;
